@@ -1,2 +1,2 @@
 # javascript-ES6
-history of study javascript for skill up
+ES6+ 뿌순다

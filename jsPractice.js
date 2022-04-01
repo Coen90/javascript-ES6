@@ -4,8 +4,8 @@ function method1 (callback) {
     console.log("=======");
 }
 
-function 콜백 () {
-    console.log("콜백함수")
+function callbackFunc () {
+    console.log("콜백함수!!!!!")
 }
 
-method1(콜백);
+method1(callbackFunc);

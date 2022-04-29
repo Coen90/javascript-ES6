@@ -3,7 +3,7 @@
  * 숫자 1 + 2 + 3 + 4 .... + n 을 계산하는 함수 sumTo(n) 만드기
  */
 function sumTo(n) {
-  if (n == 1) {
+  if (n === 1) {
     return n;
   } else {
     return n + sumTo(n - 1);

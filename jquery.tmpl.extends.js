@@ -1,3 +1,10 @@
+/**
+ * 사용방법
+ * {{for arr}}
+ *    console.log(arr[i]);
+ * {{/for}}
+ */
+
 (function ($) {
   $.extend(jQuery.tmpl.tag, {
     for: {

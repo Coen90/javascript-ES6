@@ -48,5 +48,7 @@ function fib(n) {
 }
 
 console.log(fib(3)); // 2
+
 console.log(fib(7)); // 13
+
 // fib(77); // 연산에 너무 많은 시간이 걸린다

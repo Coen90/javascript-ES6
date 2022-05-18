@@ -1,5 +1,4 @@
 let arr = new Array();
-
 arr.push(new Object({ idx: 1, name: "a" }));
 arr.push(new Object({ idx: 2, name: "b" }));
 arr.push(new Object({ idx: 3, name: "c" }));

@@ -41,6 +41,7 @@ function fibonachi(n) {
   }
   return b;
 }
+
 console.log(fibonachi(100));
 
 function fib(n) {

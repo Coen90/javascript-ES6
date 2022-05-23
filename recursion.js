@@ -47,9 +47,7 @@ console.log(fibonachi(100));
 function fib(n) {
   return n <= 1 ? n : fib(n - 1) + fib(n - 2);
 }
-
 console.log(fib(3)); // 2
-
 console.log(fib(7)); // 13
 
 // fib(77); // 연산에 너무 많은 시간이 걸린다

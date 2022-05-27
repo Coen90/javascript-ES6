@@ -1,5 +1,6 @@
 function isExist(arr, key, word) {
   let result = false;
+
   arr.forEach((m) => {
     if (m[key] == word) {
       result = true;

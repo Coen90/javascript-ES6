@@ -10,6 +10,7 @@ console.log(array);
 
 const anotherArray = [1, 2, 3, 4];
 console.log(anotherArray);
+
 array = Array.from(anotherArray);
 console.log(array);
 

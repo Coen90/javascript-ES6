@@ -11,6 +11,7 @@ fruits.forEach(function (value, index, array) {
   console.log(index);
   console.log(array);
 });
+
 // 배열을 빙글빙글 돌면서 원하는 것을 할때
 fruits.forEach((value) => console.log(value));
 

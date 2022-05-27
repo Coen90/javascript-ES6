@@ -1,5 +1,4 @@
 const fruits = ["🍌", "🍓", "🍎", "🍑"];
-
 // 배열 아이템을 참조하는 방법
 console.log(fruits[0]);
 console.log(fruits[1]);

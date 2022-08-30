@@ -15,3 +15,19 @@ const zero = parseInt("0");
 
 console.log("0" % 2);
 console.log(zero % 2);
+
+const Person = {
+  name: "Coen",
+  gender: "male",
+  sayHello: function () {
+    console.log("Hi! My name is " + this.name);
+  },
+  age: 20,
+  adult: false,
+};
+
+console.log(typeof Person.name);
+console.log(typeof Person.gender);
+console.log(typeof Person.sayHello);
+console.log(typeof Person.age);
+console.log(typeof Person.adult);

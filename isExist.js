@@ -58,6 +58,7 @@ setTimeout(function () {
     console.log(seconds);
     console.log(miliseconds);
     console.log("aasd");
+    
     console.log(hours + minutes + seconds + miliseconds);
   }, 1900);
 }, 1900);

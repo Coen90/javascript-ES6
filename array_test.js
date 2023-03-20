@@ -23,11 +23,8 @@ const Person = {
     console.log("Hi! My name is " + this.name);
   },
   age: 20,
-  adult: false,
 };
 
-console.log(typeof Person.name);
-console.log(typeof Person.gender);
-console.log(typeof Person.sayHello);
 console.log(typeof Person.age);
-console.log(typeof Person.adult);
+console.log(typeof Person.age);
+console.log(typeof Person.age);
